@@ -10,7 +10,8 @@
 
 3, draw.pyに整形したcsvのパスを入れて描画
 
-![final](https://user-images.githubusercontent.com/37968814/42417006-67c4bea4-82b8-11e8-9c4a-b23c78de9c06.PNG)
+![fin](https://user-images.githubusercontent.com/37968814/42417016-873a7256-82b8-11e8-915e-df0174fa20f1.png)
+
 
 
 
