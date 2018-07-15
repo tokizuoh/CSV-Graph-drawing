@@ -6,9 +6,9 @@
 
 1, http://www.data.jma.go.jp/obd/stats/etrn/select/prefecture00.php からCSVファイルをDL
 
-2, csv_edit.pyにcsvのパスを入れて整形
+2, csv_edit.pyにCSVのパスを入れて整形
 
-3, draw.pyに整形したcsvのパスを入れて描画
+3, draw.pyに整形したCSVのパスを入れて描画
 
 ![fin](https://user-images.githubusercontent.com/37968814/42417016-873a7256-82b8-11e8-915e-df0174fa20f1.png)
 
